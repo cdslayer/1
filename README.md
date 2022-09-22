@@ -1,4 +1,4 @@
-# 1
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -7,7 +7,7 @@
     <body>
         <div class="ticket">
             <img
-                src="[https://scontent.feoh3-1.fna.fbcdn.net/v/t39.30808-6/302416068_420663480052270_7181538663166542413_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=zFYLEYh4Pr8AX_HKXNJ&_nc_ht=scontent.feoh3-1.fna&oh=00_AT9HY6LYS_XXsTQxitJs6lDmI4SbWNG_MZdzYlwHDXK7OQ&oe=633165DA)"
+                src="https://yt3.ggpht.com/-3BKTe8YFlbA/AAAAAAAAAAI/AAAAAAAAAAA/ad0jqQ4IkGE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
                 alt="Logotipo">
             <p class="centrado">Parzibyte's blog
                 <br>New New York
