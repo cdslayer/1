@@ -6,7 +6,7 @@
     <body>
         <div class="ticket">
             <img
-                src="![image](https://user-images.githubusercontent.com/114195889/191869545-2bbf5007-2e5d-430a-886f-84d41662eafa.png)
+                src="https://user-images.githubusercontent.com/114195889/191869545-2bbf5007-2e5d-430a-886f-84d41662eafa.png
 "
                 alt="Logotipo">
             <p class="centrado">Parzibyte's blog
